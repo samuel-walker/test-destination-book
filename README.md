@@ -1,3 +1,4 @@
-# My Awesome Book
+# Test - Destination Book
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This book will import content from Test - Source Book. It will import Source Book's Chapter 1 as its own Chapter 1.
+
