@@ -1,4 +1,3 @@
 # Chapter 1
 
-INCLUDE HERE
-
+{% include "git+https://github.com/samuel-walker/test-source-book/chapter1.md" %}
